@@ -3,3 +3,6 @@ node_modules/
 
 # Generated files
 Matthew_Valancy_Resume.pdf
+
+# Test artifacts
+test-results/
