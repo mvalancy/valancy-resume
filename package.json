@@ -1,0 +1,16 @@
+{
+  "name": "valancy-resume",
+  "version": "1.0.0",
+  "description": "Matthew Valancy's resume with web preview and PDF export",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["resume"],
+  "author": "Matthew Valancy",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^17.0.1",
+    "puppeteer": "^24.32.1"
+  }
+}
