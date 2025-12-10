@@ -19,14 +19,14 @@ Full-stack generalist built for small tactical teams that deliver results throug
 | Area | Skills |
 |------|--------|
 | **Languages** | Python, C, C++, C#, Bash/shell scripting for Linux automation |
-| **Backend/Data** | FastAPI, pytest, InfluxDB, Redis, SQLite, Neo4j |
+| **Backend/Data** | FastAPI, pytest, Telegraf + InfluxDB + Grafana, Redis, SQLite, Neo4j |
 | **AI/LLM Tools** | Claude Code, Ollama, MCP servers, Piper-TTS, AI-assisted development |
 | **Infrastructure** | AWS (IoT, MQTT, serverless), VPS/homelab clusters (Jetson + RTX GPUs), Tailscale, Docker, Ansible |
 | **Hardware** | Embedded C (PIC, Atmel, TI), PCB design & component selection (KiCad, Altium) |
 | **CAD/Mechanical** | SolidWorks, Siemens NX, fixtures, enclosures, CNC, 3D printing |
-| **Simulation** | NVIDIA Isaac Lab, full-vehicle USD pipelines (SolidWorks → Blender → Isaac), Isaac sim-to-real camera streams to HIL/ROS, Substance Painter |
+| **Simulation** | NVIDIA Isaac Lab, full-vehicle USD pipelines (SolidWorks → Blender → Isaac), Isaac sim-to-real camera streams to HIL/ROS |
 | **Edge/Robotics** | NVIDIA Jetson (Orin NX, Orin AGX, Thor AGX), ROS/ROS2, edge AI deployment, multi-agent coordination |
-| **Media/Creative** | Blender 3D (15+ yrs), video editing, photo editing, animation |
+| **Media/Creative** | Blender 3D (15+ yrs), Substance Painter, video editing, photo editing, animation |
 | **Web/UI** | Vanilla JS/HTML/CSS, internal tools, dashboards, Three.js, test automation for device compatibility, responsive UI (390px to 8K) |
 
 ---
